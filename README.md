@@ -24,3 +24,8 @@
 <img src="https://img.shields.io/badge/Git-F85032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kebi3477)
+![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=kebi3477)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmsbio%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=vistor&edge_flat=false)](https://github.com/kebi3477)
