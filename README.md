@@ -1,6 +1,6 @@
-### 👋Hi, i'm kebi_ko
-- ##### 💻I'm Backend Developer
-- ##### 🤭My favorite language is JavaScript
+### 👋 Hi, i'm kebi_ko
+- ##### 💻 I'm Backend Developer
+- ##### 🤭 My favorite language is JavaScript
 <br>
 
 ### 🛠Tech Stack
