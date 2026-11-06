@@ -55,8 +55,7 @@ AI를 질문에 답하는 도구가 아니라 **같이 일하는 팀**으로 씁
 
 ### ✍️ 최근 글
 
-<!-- BLOG-POST-LIST:START -->
-- [git worktree로 Claude Code 에이전트 8개 병렬 개발: 영역 분할과 함정](https://blog.kebi.dev/blog/2026-11-05-git-worktree-parallel-claude-code-agents/) <sub>2026.11.05</sub>
+<!-- BLOG-POST-LIST:START -->- [git worktree로 Claude Code 에이전트 8개 병렬 개발: 영역 분할과 함정](https://blog.kebi.dev/blog/2026-11-05-git-worktree-parallel-claude-code-agents/) <sub>2026.11.05</sub>
 - [RDP 창을 닫으면 키오스크가 잠길 때: tscon과 세션 끊김 예약 작업](https://blog.kebi.dev/blog/2026-11-05-windows-rdp-disconnect-tscon-console-kiosk/) <sub>2026.11.05</sub>
 - [표 안 드롭다운 메뉴가 overflow 스크롤 영역에서 잘릴 때: React Portal과 position: fixed](https://blog.kebi.dev/blog/2026-11-04-react-table-dropdown-overflow-clipped-portal/) <sub>2026.11.04</sub>
 - [주소 검색 팝업이 빈 화면일 때: CSP frame-src 누락과 팝업 창의 CSP 상속](https://blog.kebi.dev/blog/2026-11-03-daum-postcode-blank-csp-frame-src/) <sub>2026.11.03</sub>
