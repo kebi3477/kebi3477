@@ -55,11 +55,11 @@ AI를 질문에 답하는 도구가 아니라 **같이 일하는 팀**으로 씁
 
 ### ✍️ 최근 글
 
-<!-- BLOG-POST-LIST:START -->- [네트워크가 조용히 끊긴 뒤 정지가 멈출 때: WebSocket half-open과 STT 종료 대기 타임아웃](https://blog.kebi.dev/blog/2026-11-06-websocket-half-open-stt-finalize-timeout/) <sub>2026.11.06</sub>
+<!-- BLOG-POST-LIST:START -->- [Flutter FCM 푸시 구현의 함정: 알림 권한 요청 시점과 세션 만료 후 남는 기기 토큰](https://blog.kebi.dev/blog/2026-11-07-fcm-push-notification-pitfalls-flutter-permission-token/) <sub>2026.11.07</sub>
+- [Redis 캐시 만료 직후 첫 요청이 느릴 때: stale-while-revalidate와 빈 결과 캐싱](https://blog.kebi.dev/blog/2026-11-07-redis-cache-stale-while-revalidate-slow-first-request/) <sub>2026.11.07</sub>
+- [네트워크가 조용히 끊긴 뒤 정지가 멈출 때: WebSocket half-open과 STT 종료 대기 타임아웃](https://blog.kebi.dev/blog/2026-11-06-websocket-half-open-stt-finalize-timeout/) <sub>2026.11.06</sub>
 - [실시간 STT 자막이 문장 중간에서 끊길 때: 발화 종료 감지와 확정 토큰 버퍼링](https://blog.kebi.dev/blog/2026-11-06-streaming-stt-caption-split-endpoint-detection/) <sub>2026.11.06</sub>
 - [git worktree로 Claude Code 에이전트 8개 병렬 개발: 영역 분할과 함정](https://blog.kebi.dev/blog/2026-11-05-git-worktree-parallel-claude-code-agents/) <sub>2026.11.05</sub>
-- [RDP 창을 닫으면 키오스크가 잠길 때: tscon과 세션 끊김 예약 작업](https://blog.kebi.dev/blog/2026-11-05-windows-rdp-disconnect-tscon-console-kiosk/) <sub>2026.11.05</sub>
-- [표 안 드롭다운 메뉴가 overflow 스크롤 영역에서 잘릴 때: React Portal과 position: fixed](https://blog.kebi.dev/blog/2026-11-04-react-table-dropdown-overflow-clipped-portal/) <sub>2026.11.04</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>매일 [blog.kebi.dev](https://blog.kebi.dev) RSS에서 자동으로 갱신됩니다.</sub>
