@@ -55,11 +55,11 @@ AI를 질문에 답하는 도구가 아니라 **같이 일하는 팀**으로 씁
 
 ### ✍️ 최근 글
 
-<!-- BLOG-POST-LIST:START -->- [Flutter FCM 푸시 구현의 함정: 알림 권한 요청 시점과 세션 만료 후 남는 기기 토큰](https://blog.kebi.dev/blog/2026-11-07-fcm-push-notification-pitfalls-flutter-permission-token/) <sub>2026.11.07</sub>
+<!-- BLOG-POST-LIST:START -->- [키체인 그룹 entitlement 앱 빌드 시 &#39;Device isn&#39;t registered&#39; 프로비저닝 오류 해결](https://blog.kebi.dev/blog/2026-11-08-macos-keychain-group-entitlement-provisioning-device-not-registered/) <sub>2026.11.08</sub>
+- [macOS 27 메뉴 막대 아이콘 숨기기: 구분선 방식이 막혔을 때 직접 구현한 방법](https://blog.kebi.dev/blog/2026-11-08-macos-27-menu-bar-icon-hiding-nsstatusitem/) <sub>2026.11.08</sub>
+- [Flutter FCM 푸시 구현의 함정: 알림 권한 요청 시점과 세션 만료 후 남는 기기 토큰](https://blog.kebi.dev/blog/2026-11-07-fcm-push-notification-pitfalls-flutter-permission-token/) <sub>2026.11.07</sub>
 - [Redis 캐시 만료 직후 첫 요청이 느릴 때: stale-while-revalidate와 빈 결과 캐싱](https://blog.kebi.dev/blog/2026-11-07-redis-cache-stale-while-revalidate-slow-first-request/) <sub>2026.11.07</sub>
 - [네트워크가 조용히 끊긴 뒤 정지가 멈출 때: WebSocket half-open과 STT 종료 대기 타임아웃](https://blog.kebi.dev/blog/2026-11-06-websocket-half-open-stt-finalize-timeout/) <sub>2026.11.06</sub>
-- [실시간 STT 자막이 문장 중간에서 끊길 때: 발화 종료 감지와 확정 토큰 버퍼링](https://blog.kebi.dev/blog/2026-11-06-streaming-stt-caption-split-endpoint-detection/) <sub>2026.11.06</sub>
-- [git worktree로 Claude Code 에이전트 8개 병렬 개발: 영역 분할과 함정](https://blog.kebi.dev/blog/2026-11-05-git-worktree-parallel-claude-code-agents/) <sub>2026.11.05</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>매일 [blog.kebi.dev](https://blog.kebi.dev) RSS에서 자동으로 갱신됩니다.</sub>
