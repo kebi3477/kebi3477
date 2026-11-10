@@ -55,11 +55,11 @@ AI를 질문에 답하는 도구가 아니라 **같이 일하는 팀**으로 씁
 
 ### ✍️ 최근 글
 
-<!-- BLOG-POST-LIST:START -->- [키체인 그룹 entitlement 앱 빌드 시 &#39;Device isn&#39;t registered&#39; 프로비저닝 오류 해결](https://blog.kebi.dev/blog/2026-11-08-macos-keychain-group-entitlement-provisioning-device-not-registered/) <sub>2026.11.08</sub>
-- [macOS 27 메뉴 막대 아이콘 숨기기: 구분선 방식이 막혔을 때 직접 구현한 방법](https://blog.kebi.dev/blog/2026-11-08-macos-27-menu-bar-icon-hiding-nsstatusitem/) <sub>2026.11.08</sub>
-- [Flutter FCM 푸시 구현의 함정: 알림 권한 요청 시점과 세션 만료 후 남는 기기 토큰](https://blog.kebi.dev/blog/2026-11-07-fcm-push-notification-pitfalls-flutter-permission-token/) <sub>2026.11.07</sub>
-- [Redis 캐시 만료 직후 첫 요청이 느릴 때: stale-while-revalidate와 빈 결과 캐싱](https://blog.kebi.dev/blog/2026-11-07-redis-cache-stale-while-revalidate-slow-first-request/) <sub>2026.11.07</sub>
-- [네트워크가 조용히 끊긴 뒤 정지가 멈출 때: WebSocket half-open과 STT 종료 대기 타임아웃](https://blog.kebi.dev/blog/2026-11-06-websocket-half-open-stt-finalize-timeout/) <sub>2026.11.06</sub>
+<!-- BLOG-POST-LIST:START -->- [이중 연결은 페일오버가 아니다: Socket.IO 서버 2대 구성과 MySQL GET_LOCK 리더 선출](https://blog.kebi.dev/blog/2026-11-10-socket-io-dual-server-failover-mysql-get-lock/) <sub>2026.11.10</sub>
+- [Amazon Linux 2023에서 PHP 8.5가 dnf에 안 보일 때: --releasever=latest와 업그레이드 점검](https://blog.kebi.dev/blog/2026-11-10-amazon-linux-2023-php-8-5-dnf-releasever/) <sub>2026.11.10</sub>
+- [PHP 8.2→8.5 업그레이드 점검: curl_close&lpar;&rpar; deprecated 경고가 JSON 응답을 깨뜨리는 문제](https://blog.kebi.dev/blog/2026-11-09-php-8-5-upgrade-curl-close-deprecated-json/) <sub>2026.11.09</sub>
+- [Node 16+에서 long poll이 즉시 끝날 때: req &#39;close&#39; 이벤트의 함정과 해결](https://blog.kebi.dev/blog/2026-11-09-nodejs-long-poll-req-close-event-immediate-abort/) <sub>2026.11.09</sub>
+- [키체인 그룹 entitlement 앱 빌드 시 &#39;Device isn&#39;t registered&#39; 프로비저닝 오류 해결](https://blog.kebi.dev/blog/2026-11-08-macos-keychain-group-entitlement-provisioning-device-not-registered/) <sub>2026.11.08</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>매일 [blog.kebi.dev](https://blog.kebi.dev) RSS에서 자동으로 갱신됩니다.</sub>
