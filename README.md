@@ -55,11 +55,11 @@ AI를 질문에 답하는 도구가 아니라 **같이 일하는 팀**으로 씁
 
 ### ✍️ 최근 글
 
-<!-- BLOG-POST-LIST:START -->- [개인 연락처 암호화 저장: AES-256-GCM AAD 행 바인딩과 키 교체 재암호화](https://blog.kebi.dev/blog/2026-11-11-aes-256-gcm-aad-row-binding-key-rotation/) <sub>2026.11.11</sub>
+<!-- BLOG-POST-LIST:START -->- [MySQL 통계 집계 쿼리가 틀릴 때: 조인 중복, NULL 조인, 동시 시청자 정의 문제](https://blog.kebi.dev/blog/2026-11-12-mysql-aggregation-join-duplicate-concurrent-viewers/) <sub>2026.11.12</sub>
+- [웹캠 문서 자동 검출: OpenCV.js 규칙 기반의 한계와 경량 ONNX 모델로 보완하기](https://blog.kebi.dev/blog/2026-11-12-document-detection-opencv-js-onnx-model/) <sub>2026.11.12</sub>
+- [개인 연락처 암호화 저장: AES-256-GCM AAD 행 바인딩과 키 교체 재암호화](https://blog.kebi.dev/blog/2026-11-11-aes-256-gcm-aad-row-binding-key-rotation/) <sub>2026.11.11</sub>
 - [Electron 화면공유 판서 기능: 투명 오버레이 창을 영상에 함께 캡처하기](https://blog.kebi.dev/blog/2026-11-11-electron-screen-share-annotation-transparent-overlay/) <sub>2026.11.11</sub>
 - [이중 연결은 페일오버가 아니다: Socket.IO 서버 2대 구성과 MySQL GET_LOCK 리더 선출](https://blog.kebi.dev/blog/2026-11-10-socket-io-dual-server-failover-mysql-get-lock/) <sub>2026.11.10</sub>
-- [Amazon Linux 2023에서 PHP 8.5가 dnf에 안 보일 때: --releasever=latest와 업그레이드 점검](https://blog.kebi.dev/blog/2026-11-10-amazon-linux-2023-php-8-5-dnf-releasever/) <sub>2026.11.10</sub>
-- [PHP 8.2→8.5 업그레이드 점검: curl_close&lpar;&rpar; deprecated 경고가 JSON 응답을 깨뜨리는 문제](https://blog.kebi.dev/blog/2026-11-09-php-8-5-upgrade-curl-close-deprecated-json/) <sub>2026.11.09</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>매일 [blog.kebi.dev](https://blog.kebi.dev) RSS에서 자동으로 갱신됩니다.</sub>
