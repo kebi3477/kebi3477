@@ -55,11 +55,11 @@ AI를 질문에 답하는 도구가 아니라 **같이 일하는 팀**으로 씁
 
 ### ✍️ 최근 글
 
-<!-- BLOG-POST-LIST:START -->- [Electron 내장 브라우저에서 구글 로그인 팝업이 멈출 때: setWindowOpenHandler와 window.opener](https://blog.kebi.dev/blog/2026-11-16-electron-oauth-popup-window-open-handler/) <sub>2026.11.16</sub>
+<!-- BLOG-POST-LIST:START -->- [Node 서비스가 503일 때: systemd status=203/EXEC와 shebang의 node 경로](https://blog.kebi.dev/blog/2026-11-17-systemd-203-exec-node-shebang-503/) <sub>2026.11.17</sub>
+- [방화벽 뒤에서 LiveKit 영상만 안 붙을 때: 443 WebSocket 프록시와 TURN/TLS SNI 분기](https://blog.kebi.dev/blog/2026-11-17-livekit-firewall-443-websocket-proxy-turn-tls-sni/) <sub>2026.11.17</sub>
+- [Electron 내장 브라우저에서 구글 로그인 팝업이 멈출 때: setWindowOpenHandler와 window.opener](https://blog.kebi.dev/blog/2026-11-16-electron-oauth-popup-window-open-handler/) <sub>2026.11.16</sub>
 - [Electron 앱이 macOS에서 안 꺼질 때: before-quit 후 app.quit 재호출 문제와 app.exit](https://blog.kebi.dev/blog/2026-11-16-electron-macos-app-quit-before-quit-not-exiting/) <sub>2026.11.16</sub>
 - [다자 음성 통화 녹음 인프라 선택: LiveKit vs Cloudflare Realtime·Durable Objects](https://blog.kebi.dev/blog/2026-11-15-livekit-vs-cloudflare-realtime-recording-webrtc/) <sub>2026.11.15</sub>
-- [AI 비서 선제 메시지가 늘 똑같을 때: 템플릿 대신 LLM 직접 작성과 폴백](https://blog.kebi.dev/blog/2026-11-15-llm-proactive-message-template-repetition-fallback/) <sub>2026.11.15</sub>
-- [OCR 줄 좌표만으로 제목·문단·목록·표 구조 복원하기: 표 오검출 줄이는 규칙](https://blog.kebi.dev/blog/2026-11-13-ocr-line-bounding-box-document-layout-table-detection/) <sub>2026.11.13</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>매일 [blog.kebi.dev](https://blog.kebi.dev) RSS에서 자동으로 갱신됩니다.</sub>
