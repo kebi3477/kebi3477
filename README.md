@@ -55,11 +55,11 @@ AI를 질문에 답하는 도구가 아니라 **같이 일하는 팀**으로 씁
 
 ### ✍️ 최근 글
 
-<!-- BLOG-POST-LIST:START -->- [ffmpeg -c copy 컷 편집에서 첫 구간 영상이 빠질 때: 키프레임과 aac -strict -2](https://blog.kebi.dev/blog/2026-11-18-ffmpeg-c-copy-keyframe-cut-aac-strict/) <sub>2026.11.18</sub>
+<!-- BLOG-POST-LIST:START -->- [Notion API 롤업 속성 필터링: 날짜·담당자 롤업이 무시될 때](https://blog.kebi.dev/blog/2026-11-19-notion-api-rollup-property-filter-date-people/) <sub>2026.11.19</sub>
+- [최근 N개 양방향 동기화에서 지난 메시지가 계속 다시 붙는 버그](https://blog.kebi.dev/blog/2026-11-19-bidirectional-sync-window-old-messages-resurrect/) <sub>2026.11.19</sub>
+- [ffmpeg -c copy 컷 편집에서 첫 구간 영상이 빠질 때: 키프레임과 aac -strict -2](https://blog.kebi.dev/blog/2026-11-18-ffmpeg-c-copy-keyframe-cut-aac-strict/) <sub>2026.11.18</sub>
 - [Node 서비스가 503일 때: systemd status=203/EXEC와 shebang의 node 경로](https://blog.kebi.dev/blog/2026-11-17-systemd-203-exec-node-shebang-503/) <sub>2026.11.17</sub>
 - [방화벽 뒤에서 LiveKit 영상만 안 붙을 때: 443 WebSocket 프록시와 TURN/TLS SNI 분기](https://blog.kebi.dev/blog/2026-11-17-livekit-firewall-443-websocket-proxy-turn-tls-sni/) <sub>2026.11.17</sub>
-- [Electron 내장 브라우저에서 구글 로그인 팝업이 멈출 때: setWindowOpenHandler와 window.opener](https://blog.kebi.dev/blog/2026-11-16-electron-oauth-popup-window-open-handler/) <sub>2026.11.16</sub>
-- [Electron 앱이 macOS에서 안 꺼질 때: before-quit 후 app.quit 재호출 문제와 app.exit](https://blog.kebi.dev/blog/2026-11-16-electron-macos-app-quit-before-quit-not-exiting/) <sub>2026.11.16</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>매일 [blog.kebi.dev](https://blog.kebi.dev) RSS에서 자동으로 갱신됩니다.</sub>
