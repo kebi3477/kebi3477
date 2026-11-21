@@ -55,11 +55,11 @@ AI를 질문에 답하는 도구가 아니라 **같이 일하는 팀**으로 씁
 
 ### ✍️ 최근 글
 
-<!-- BLOG-POST-LIST:START -->- [Socket.IO 큰 메시지로 연결이 끊길 때: maxHttpBufferSize와 대량 데이터 분할 처리](https://blog.kebi.dev/blog/2026-11-20-socket-io-maxhttpbuffersize-large-payload-disconnect/) <sub>2026.11.20</sub>
+<!-- BLOG-POST-LIST:START -->- [업로드 응답만 유실되면 재시도가 영원히 실패한다: 서버 상태 확인과 멱등 업로드 설계](https://blog.kebi.dev/blog/2026-11-21-upload-response-lost-idempotent-retry/) <sub>2026.11.21</sub>
+- [Electron 두 번째 인스턴스가 저장 토큰을 지운다: requestSingleInstanceLock 후 app.quit 함정](https://blog.kebi.dev/blog/2026-11-21-electron-single-instance-lock-token-cleared/) <sub>2026.11.21</sub>
+- [Socket.IO 큰 메시지로 연결이 끊길 때: maxHttpBufferSize와 대량 데이터 분할 처리](https://blog.kebi.dev/blog/2026-11-20-socket-io-maxhttpbuffersize-large-payload-disconnect/) <sub>2026.11.20</sub>
 - [운영 패치 쉘 스크립트가 현장에서 멈춘 이유: 과한 사전 검증, set -e, CRLF](https://blog.kebi.dev/blog/2026-11-20-bash-patch-script-validation-set-e-crlf/) <sub>2026.11.20</sub>
 - [Notion API 롤업 속성 필터링: 날짜·담당자 롤업이 무시될 때](https://blog.kebi.dev/blog/2026-11-19-notion-api-rollup-property-filter-date-people/) <sub>2026.11.19</sub>
-- [최근 N개 양방향 동기화에서 지난 메시지가 계속 다시 붙는 버그](https://blog.kebi.dev/blog/2026-11-19-bidirectional-sync-window-old-messages-resurrect/) <sub>2026.11.19</sub>
-- [ffmpeg -c copy 컷 편집에서 첫 구간 영상이 빠질 때: 키프레임과 aac -strict -2](https://blog.kebi.dev/blog/2026-11-18-ffmpeg-c-copy-keyframe-cut-aac-strict/) <sub>2026.11.18</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>매일 [blog.kebi.dev](https://blog.kebi.dev) RSS에서 자동으로 갱신됩니다.</sub>
