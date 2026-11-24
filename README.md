@@ -55,11 +55,11 @@ AI를 질문에 답하는 도구가 아니라 **같이 일하는 팀**으로 씁
 
 ### ✍️ 최근 글
 
-<!-- BLOG-POST-LIST:START -->- [개발 서버에서 목록 API는 정상인데 이미지·번들만 404일 때: DB만 복사된 파일 저장소](https://blog.kebi.dev/blog/2026-11-22-dev-server-asset-404-db-copied-storage-empty/) <sub>2026.11.22</sub>
+<!-- BLOG-POST-LIST:START -->- [STT 앞단 Silero VAD 관문: 노이즈 억제는 판단용, 인식 엔진엔 원음](https://blog.kebi.dev/blog/2026-11-23-stt-vad-gate-noise-suppression-raw-audio/) <sub>2026.11.23</sub>
+- [STT 언어 코드 &#39;zh&#39; 하나로 중국어 간체 자막이 광둥어로 붙던 회귀 버그](https://blog.kebi.dev/blog/2026-11-23-stt-language-code-zh-cantonese-mapping-bug/) <sub>2026.11.23</sub>
+- [개발 서버에서 목록 API는 정상인데 이미지·번들만 404일 때: DB만 복사된 파일 저장소](https://blog.kebi.dev/blog/2026-11-22-dev-server-asset-404-db-copied-storage-empty/) <sub>2026.11.22</sub>
 - [Claude Code 서브에이전트 10개로 사용자 시나리오 100개 코드 점검하기](https://blog.kebi.dev/blog/2026-11-22-claude-code-subagent-persona-scenario-code-review/) <sub>2026.11.22</sub>
 - [업로드 응답만 유실되면 재시도가 영원히 실패한다: 서버 상태 확인과 멱등 업로드 설계](https://blog.kebi.dev/blog/2026-11-21-upload-response-lost-idempotent-retry/) <sub>2026.11.21</sub>
-- [Electron 두 번째 인스턴스가 저장 토큰을 지운다: requestSingleInstanceLock 후 app.quit 함정](https://blog.kebi.dev/blog/2026-11-21-electron-single-instance-lock-token-cleared/) <sub>2026.11.21</sub>
-- [Socket.IO 큰 메시지로 연결이 끊길 때: maxHttpBufferSize와 대량 데이터 분할 처리](https://blog.kebi.dev/blog/2026-11-20-socket-io-maxhttpbuffersize-large-payload-disconnect/) <sub>2026.11.20</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>매일 [blog.kebi.dev](https://blog.kebi.dev) RSS에서 자동으로 갱신됩니다.</sub>
