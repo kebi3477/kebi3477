@@ -55,11 +55,11 @@ AI를 질문에 답하는 도구가 아니라 **같이 일하는 팀**으로 씁
 
 ### ✍️ 최근 글
 
-<!-- BLOG-POST-LIST:START -->- [STT 앞단 Silero VAD 관문: 노이즈 억제는 판단용, 인식 엔진엔 원음](https://blog.kebi.dev/blog/2026-11-23-stt-vad-gate-noise-suppression-raw-audio/) <sub>2026.11.23</sub>
+<!-- BLOG-POST-LIST:START -->- [음성 인식 엔진 두 개 섞어 쓰기: 언어 기준 라우팅과 Azure Speech 번역 경로](https://blog.kebi.dev/blog/2026-11-24-dual-stt-engine-language-routing-azure-speech/) <sub>2026.11.24</sub>
+- [주변 소음 학습형 VAD 관문의 함정: 첫 2초 말이 인식 안 될 때 고정 기준으로](https://blog.kebi.dev/blog/2026-11-24-adaptive-noise-floor-vad-gate-fixed-threshold/) <sub>2026.11.24</sub>
+- [STT 앞단 Silero VAD 관문: 노이즈 억제는 판단용, 인식 엔진엔 원음](https://blog.kebi.dev/blog/2026-11-23-stt-vad-gate-noise-suppression-raw-audio/) <sub>2026.11.23</sub>
 - [STT 언어 코드 &#39;zh&#39; 하나로 중국어 간체 자막이 광둥어로 붙던 회귀 버그](https://blog.kebi.dev/blog/2026-11-23-stt-language-code-zh-cantonese-mapping-bug/) <sub>2026.11.23</sub>
 - [개발 서버에서 목록 API는 정상인데 이미지·번들만 404일 때: DB만 복사된 파일 저장소](https://blog.kebi.dev/blog/2026-11-22-dev-server-asset-404-db-copied-storage-empty/) <sub>2026.11.22</sub>
-- [Claude Code 서브에이전트 10개로 사용자 시나리오 100개 코드 점검하기](https://blog.kebi.dev/blog/2026-11-22-claude-code-subagent-persona-scenario-code-review/) <sub>2026.11.22</sub>
-- [업로드 응답만 유실되면 재시도가 영원히 실패한다: 서버 상태 확인과 멱등 업로드 설계](https://blog.kebi.dev/blog/2026-11-21-upload-response-lost-idempotent-retry/) <sub>2026.11.21</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>매일 [blog.kebi.dev](https://blog.kebi.dev) RSS에서 자동으로 갱신됩니다.</sub>
