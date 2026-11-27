@@ -55,11 +55,11 @@ AI를 질문에 답하는 도구가 아니라 **같이 일하는 팀**으로 씁
 
 ### ✍️ 최근 글
 
-<!-- BLOG-POST-LIST:START -->- [선불 충전 지갑 설계: 원장 기반 잔액, 멱등 충전, 환불 시 마이너스 잔액](https://blog.kebi.dev/blog/2026-11-25-prepaid-wallet-ledger-idempotent-charge/) <sub>2026.11.25</sub>
+<!-- BLOG-POST-LIST:START -->- [관리 웹에 기관 관리자 역할 추가: 기본 차단 RBAC와 VPN 없는 기능 분리](https://blog.kebi.dev/blog/2026-11-27-multi-tenant-rbac-default-deny-admin-api/) <sub>2026.11.27</sub>
+- [Electron 재시작 후 자동 로그인 풀림: refresh 쿠키 이름 불일치와 safeStorage 백업](https://blog.kebi.dev/blog/2026-11-27-electron-refresh-cookie-name-mismatch-auto-login/) <sub>2026.11.27</sub>
+- [선불 충전 지갑 설계: 원장 기반 잔액, 멱등 충전, 환불 시 마이너스 잔액](https://blog.kebi.dev/blog/2026-11-25-prepaid-wallet-ledger-idempotent-charge/) <sub>2026.11.25</sub>
 - [서드파티 앱 웹뷰 임베드 인증 설계: 장기 API 키와 1회용 실행 토큰 분리](https://blog.kebi.dev/blog/2026-11-25-webview-embed-api-key-one-time-token/) <sub>2026.11.25</sub>
 - [음성 인식 엔진 두 개 섞어 쓰기: 언어 기준 라우팅과 Azure Speech 번역 경로](https://blog.kebi.dev/blog/2026-11-24-dual-stt-engine-language-routing-azure-speech/) <sub>2026.11.24</sub>
-- [주변 소음 학습형 VAD 관문의 함정: 첫 2초 말이 인식 안 될 때 고정 기준으로](https://blog.kebi.dev/blog/2026-11-24-adaptive-noise-floor-vad-gate-fixed-threshold/) <sub>2026.11.24</sub>
-- [STT 앞단 Silero VAD 관문: 노이즈 억제는 판단용, 인식 엔진엔 원음](https://blog.kebi.dev/blog/2026-11-23-stt-vad-gate-noise-suppression-raw-audio/) <sub>2026.11.23</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>매일 [blog.kebi.dev](https://blog.kebi.dev) RSS에서 자동으로 갱신됩니다.</sub>
